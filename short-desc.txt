@@ -1,0 +1,1 @@
+View text from *.txt file

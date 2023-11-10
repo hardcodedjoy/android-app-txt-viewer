@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TXT Viewer</string>
+    <string name="text_explain_app_usage">This app will display text from a txt file that is provided via Intent.ACTION_VIEW or Intent.ACTION_SEND.</string>
+</resources>
